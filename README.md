@@ -1,6 +1,6 @@
 ## Streamlit App - Sales Prediction for Corporation Favorita
 <p align="center">
-  <img src="src/streamlit.png" alt="Logo" width="800">
+  <img src="image/streamlit.png" alt="Logo" width="800">
 </p>
 Welcome to the Streamlit Machine Learning Model Embedding Project using Streamlit. This project demonstrates how to embed a machine learning model to predict sales of Corporation Favorita, a large Ecuadorian-based grocery retailer. The Streamlit app provides an interactive interface for users to input customer information and get churn predictions.
 
